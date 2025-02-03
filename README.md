@@ -43,7 +43,4 @@ For the CGPA Calculator:
 3. **Removing Semesters:** If needed, use the "Remove Last Semester" button.
 4. **CGPA Calculation (CGPA Calculator):** After entering GPAs for all added semesters, click the "Calculate CGPA" button to view your CGPA.
 
-## Support and Feedback
-
-For any questions, feedback, or assistance, please contact us at [srmguide23@gmail.com](mailto:srmguide23@gmail.com).
 
